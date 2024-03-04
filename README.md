@@ -1,6 +1,7 @@
 # Correlation Coefficient Calculation
 
-This project calculates the correlation coefficient between two sets of data using JavaScript.
+This project calculates the correlation coefficient between two sets of data using JavaScript. 
+Easy to use Javascript function that calculates the Pearson correlation coefficient. Give your data arrays and get instant results.
 
 ## Installation
 
